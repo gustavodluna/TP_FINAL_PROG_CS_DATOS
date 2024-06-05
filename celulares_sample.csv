@@ -1,0 +1,101 @@
+,modelo,precio,rating,sim,procesador,bateria,memoria,os,5G,NFC,carga_rapida,almacenamiento,Memory Card,ram,rom
+302,Infinix Note 12,139.89,74,Dual Sim,Helio G88,5000,Supported,Android v11,False,False,True,512,True,4,64.0
+244,Samsung Galaxy A32 (8GB RAM + 128GB),197.27,82,Dual Sim,Helio G80,5000,Supported,Android v11,False,False,True,1000,True,8,128.0
+593,Samsung Galaxy Note 10 Lite,478.24,83,Dual Sim,Exynos 9810,4500,Hybrid,Android v10.0,False,True,True,1000,True,6,128.0
+135,Xiaomi Redmi 10,114.65,71,Dual Sim,Snapdragon 680,6000,Supported,Android v11,False,False,True,512,True,4,64.0
+171,LeEco S1 Pro,131.51,65,Dual Sim,Tiger T7150,5000,-,-,False,False,True,0,False,8,128.0
+562,Samsung Galaxy A83 5G,478.14,86,Dual Sim,Snapdragon 870,4500,Supported,Android v11,True,True,True,1000,True,6,128.0
+210,Vivo T1 44W,173.36,77,Dual Sim,Snapdragon 680,5000,Hybrid,Android v12,False,False,True,1000,True,4,128.0
+1,OnePlus Nord CE 2 Lite 5G,239.0,81,Dual Sim,Snapdragon 695,5000,Hybrid,Android v12,True,False,True,1000,True,6,128.0
+784,OnePlus Nord N100,203.14,68,Dual Sim,Snapdragon 460,5000,Supported,Android v10,False,False,True,256,True,4,64.0
+21,Poco X4 Pro 5G,179.33,80,Dual Sim,Snapdragon 695,5000,Hybrid,Android v11,True,False,True,1000,True,6,64.0
+594,Samsung Galaxy Note 10 Plus 5G,1111.93,89,Dual Sim,Exynos 9825,4300,Hybrid,Android v9.0 (Pie),True,True,True,512,True,12,256.0
+24,Samsung Galaxy S20 FE 5G,373.51,88,Dual Sim,Snapdragon 865,4500,Hybrid,Android v10,True,True,True,0,True,8,128.0
+331,Poco X3,161.4,80,Dual Sim,Snapdragon  732G,6000,Hybrid,Android v10,False,False,True,512,True,6,64.0
+31,Apple iPhone 11,466.29,73,Dual Sim,A13 Bionic,3110,Not Supported,iOS v13,False,True,False,0,True,4,64.0
+632,Apple iPhone 15,992.26,72,Dual Sim,Bionic  A16,3285,Not Supported,iOS v15,False,True,True,0,True,6,128.0
+611,OPPO F19s,191.16,79,Dual Sim,Snapdragon 662,5000,Supported,Android v11,False,False,True,256,True,6,128.0
+596,Samsung Galaxy A04s (4GB RAM + 128GB),173.36,72,Dual Sim,Exynos 850,5000,Supported,Android v12,False,False,True,1000,True,4,128.0
+546,OPPO A16,143.46,69,Dual Sim,Helio G35,5000,Supported,Android v11,False,False,False,0,True,4,64.0
+366,OnePlus Nord N200,203.14,75,Dual Sim,Snapdragon  480,5000,Supported,Android v11,True,True,True,0,True,4,64.0
+444,Xiaomi Redmi A1 Plus,87.15,60,Dual Sim,Helio A22,5000,Supported,Android v12,False,False,True,512,True,2,32.0
+801,ZTE Axon 30S,239.12,82,Dual Sim,Snapdragon 870,4200,Hybrid,Android v12,True,True,True,0,True,6,128.0
+651,Xiaomi Poco F1 (6GB RAM + 128GB),155.42,78,Dual Sim,Snapdragon 845,4000,Hybrid,Android v8.1 (Oreo),False,False,True,256,True,6,128.0
+508,OPPO A77 (4GB RAM + 128 GB),191.28,71,Dual Sim,Helio G35,5000,Supported,Android v12,False,False,True,0,True,4,128.0
+482,Poco X5,179.33,74,Dual Sim,Snapdragon 695,5000,Not Supported,Android v12,True,False,True,0,True,4,128.0
+659,Vivo T2x 5G,227.05,80,Dual Sim,Dimensity 1300,6000,-,-,True,False,True,0,False,8,128.0
+580,Xiaomi Redmi Note 11E 5G,167.27,69,Dual Sim,Dimensity 700 5G,5000,Not Supported,Android v11,True,False,True,0,True,4,128.0
+559,POCO F4 GT 5G,478.24,86,Dual Sim,Snapdragon  8 Gen1,4700,Not Supported,Android v12,True,True,True,0,True,8,128.0
+23,Vivo V26 Pro,514.01,87,Dual Sim,Dimensity 9000 Plus,4800,-,-,True,True,True,0,False,12,256.0
+300,Realme 9 5G SE (8GB RAM + 128GB),274.97,82,Dual Sim,Snapdragon  778G,5000,Supported,Android v11,True,False,True,1000,True,8,128.0
+151,iQOO 9 SE 5G,370.53,83,Dual Sim,Snapdragon  888,4500,-,-,True,True,True,0,False,8,128.0
+702,Xiaomi Redmi 13 Prime 5G,215.1,79,Dual Sim,Snapdragon 4 Gen 1,5100,Supported,Android v13,True,False,True,1000,True,6,128.0
+279,OnePlus 10T (16GB RAM + 256GB),669.55,87,Dual Sim,Snapdragon 8+ Gen1,4800,-,-,True,True,True,0,False,16,256.0
+234,Poco M4 5G (6GB RAM + 128GB),161.4,79,Dual Sim,Dimensity 700 5G,5000,Supported,Android v12,True,False,True,512,True,6,128.0
+726,Realme GT Explorer Master Edition,394.44,85,Dual Sim,Snapdragon  870,4500,-,-,True,True,True,0,False,8,128.0
+167,Realme 10 5G,173.36,79,Dual Sim,Dimensity  700 5G,5000,Supported,Android v12,True,False,True,1000,True,8,128.0
+421,Motorola Moto E13,125.53,65,Dual Sim,Tiger T606,5000,Hybrid,Android v13,False,False,True,1000,True,2,64.0
+414,OPPO Reno7 Z 5G,215.2,84,Dual Sim,Snapdragon  695,4500,Supported,Android v11,True,True,True,0,True,8,128.0
+386,Motorola Moto E32,107.6,71,Dual Sim,Helio G37,5000,Supported,Android v12,False,False,True,1000,True,4,64.0
+357,Apple iPhone 15 Ultra,1792.26,79,Dual Sim,Bionic  A17,4700,Not Supported,iOS v17,True,True,True,0,True,8,128.0
+535,Vivo V28,346.62,84,Dual Sim,Snapdragon 6 Gen 1,5000,Supported,Android v13,True,False,True,0,True,8,256.0
+798,Xiaomi Redmi A1 Plus (3GB RAM + 32GB),100.42,61,Dual Sim,Helio A22,5000,Supported,Android v12,False,False,True,512,True,3,32.0
+614,OPPO X 2021,1614.1,86,Single Sim,Snapdragon 865,4000,-,Android v11,False,False,True,0,False,8,256.0
+663,Vivo Y15C,101.62,66,Dual Sim,Helio P35,5000,Supported,Android v12,False,False,False,1000,True,3,32.0
+460,Vivo Y01,95.64,61,Dual Sim,Helio P35,5000,Supported,Android v11,False,False,False,1000,True,2,32.0
+63,Xiaomi Redmi Note 12 Pro Plus (12GB RAM + 256GB),394.55,87,Dual Sim,Dimensity 1080,4980,Not Supported,Android v12,True,False,True,0,True,12,256.0
+662,Realme GT 2 Pro 5G (12GB RAM + 256GB),561.94,89,Dual Sim,Snapdragon 8 Gen1,5000,-,-,True,True,True,0,False,12,256.0
+797,Motorola Moto E22s,107.87,70,Dual Sim,Helio G37,5000,Supported,Android v12,False,False,True,0,True,4,64.0
+213,Vivo Y75 4G,239.01,82,Dual Sim,Helio G96,4050,Hybrid,Android v12,False,False,True,1000,True,8,128.0
+779,Realme 8 (8GB RAM + 128GB),215.2,83,Dual Sim,Helio G95,5000,Supported,Android v11,False,False,True,256,True,8,128.0
+344,Realme 9 Pro Plus 5G (8GB RAM + 128GB),274.93,81,Dual Sim,Dimensity  920 5G,4500,Not Supported,Android v12,True,False,True,0,True,8,128.0
+17,OnePlus 10R 5G,394.55,86,Dual Sim,Dimensity 8100 Max,5000,-,-,True,True,True,0,False,8,128.0
+742,Xiaomi Redmi Note 9,143.35,75,Dual Sim,Helio G85,5020,Supported,Android v10.0,False,False,True,512,True,4,64.0
+507,Nokia G60,340.73,81,Dual Sim,Snapdragon  695,4500,Hybrid,Android v12,True,True,True,0,True,6,128.0
+388,Samsung Galaxy A52 (8GB RAM + 128GB),268.95,86,Dual Sim,Snapdragon  720G,4500,Supported,Android v11,False,False,True,1000,True,8,128.0
+95,OPPO F19 Pro Plus 5G,239.01,82,Dual Sim,Dimensity 800U,4310,Supported,Android v11,True,False,True,256,True,8,128.0
+68,OnePlus 10T,538.03,85,Dual Sim,Snapdragon 8+ Gen1,4800,-,-,True,True,True,0,False,8,128.0
+499,Samsung Galaxy Z Fold 3,1327.15,89,Dual Sim,Snapdragon 888,4400,-,Android v11,True,True,True,0,False,12,256.0
+464,Vivo Y73 2021,239.01,80,Dual Sim,Helio G95,4000,Supported,Android v11,False,False,True,0,True,8,128.0
+815,Tecno Spark 8C,88.47,62,Dual Sim,Unisoc  T606,5000,Supported,Android v11,False,False,False,256,True,3,64.0
+29,Poco X5 Pro,251.07,81,Dual Sim,Snapdragon 778G,5000,Not Supported,Android v13,True,True,True,0,True,6,128.0
+705,OnePlus Nord N300,227.05,75,Dual Sim,Dimensity 810 5G,5000,Supported,Android v12,True,True,True,0,True,4,64.0
+480,Realme 8s 5G (8GB RAM + 128GB),209.23,82,Dual Sim,Dimensity  810 5G,5000,Supported,Android v11,True,False,True,1000,True,8,128.0
+610,Vivo Y21s,179.23,74,Dual Sim,Helio G80,5000,Supported,Android v11,False,False,True,1000,True,4,128.0
+613,OPPO F19 Pro,215.14,80,Dual Sim,Helio P95,4310,Supported,Android v11,False,False,True,256,True,8,128.0
+396,Infinix Hot 12,119.55,72,Dual Sim,Helio G37,6000,Supported,Android v11,False,False,True,512,True,4,64.0
+589,Xiaomi Redmi Note 10 Pro Max,239.12,81,Dual Sim,Snapdragon  732G,5020,Supported,Android v11,False,False,True,512,True,6,64.0
+59,Vivo Y22 (6GB RAM + 128GB),197.27,75,Dual Sim,Helio G70,5000,Supported,Android v12,False,False,True,1000,True,6,128.0
+547,Vivo V21 5G,286.88,85,Dual Sim,Dimensity 800U,4000,Hybrid,Android v11,True,False,True,0,True,8,128.0
+678,OPPO A54 (4GB RAM + 128GB),143.36,71,Dual Sim,Helio P35,5000,Supported,Android v10,False,False,True,256,True,4,128.0
+112,Samsung Galaxy M33 5G (8GB RAM + 128GB),233.14,84,Dual Sim,Exynos  1280,6000,Supported,Android v12,True,True,True,1000,True,8,128.0
+346,Realme 9i (6GB RAM + 128GB),179.33,78,Dual Sim,Snapdragon  680,5000,Supported,Android v11,False,False,True,1000,True,6,128.0
+601,Samsung Galaxy A24,215.2,77,Dual Sim,Exynos 7904,4000,Supported,Android v12,False,False,True,1000,True,6,64.0
+513,Samsung Galaxy A13 (6GB RAM + 128GB),197.27,78,Dual Sim,Octa Core,5000,Supported,Android v12,False,False,True,1000,True,6,128.0
+271,Xiaomi Redmi 10A,89.66,64,Dual Sim,Helio  G25,5000,Supported,Android v11,False,False,False,512,True,3,32.0
+494,Realme Narzo 50A,137.49,71,Dual Sim,Helio  G85,6000,Supported,Android v11,False,False,True,256,True,4,64.0
+802,Honor X6,167.38,71,Dual Sim,Helio G25,5000,Hybrid,Android v12,False,False,True,0,True,4,64.0
+42,Samsung Galaxy M33 5G,208.97,81,Dual Sim,Exynos  1280,6000,Supported,Android v12,True,True,True,1000,True,6,128.0
+787,Oppo A12,119.44,64,Dual Sim,Helio P35,4230,Supported,Android v9.0 (Pie),False,False,False,256,True,3,32.0
+850,Poco C55,95.64,70,Dual Sim,Helio  G85,5000,Supported,Android v12,False,False,False,512,True,4,64.0
+848,Samsung Galaxy A9 Pro (2019),478.14,78,Dual Sim,Snapdragon 710,3400,Supported,Android v9.0 (Pie),False,True,True,512,True,6,128.0
+737,Oppo A31 2020 (6GB RAM + 128GB),149.34,72,Dual Sim,Helio P35,4230,Supported,Android v9.0 (Pie),False,False,False,256,True,6,128.0
+862,Oppo Find X6,836.83,89,Dual Sim,Snapdragon 8 Gen2,4700,-,-,True,True,True,0,False,8,256.0
+200,Motorola Edge 30 5G (8GB RAM + 128GB),298.9,85,Dual Sim,Snapdragon 778G+,4020,-,-,True,True,True,0,False,8,128.0
+60,Poco M4 Pro 5G (6GB RAM + 128GB),179.33,81,Dual Sim,Dimensity  810 5G,5000,Hybrid,Android v11,True,False,True,1000,True,6,128.0
+4,Realme 10 Pro Plus,298.9,82,Dual Sim,Dimensity 1080,5000,Not Supported,Android v13,True,False,True,0,True,6,128.0
+657,Apple iPhone 14 Pro Max (512GB),2031.39,78,Dual Sim,Bionic  A16,4323,Not Supported,iOS v16,True,True,True,0,True,6,512.0
+765,iQOO 9 5G (12GB RAM + 256GB),478.14,85,Dual Sim,Snapdragon  888+,4350,-,-,True,False,True,0,False,12,256.0
+852,Honor X7a,167.38,75,Dual Sim,Helio G37,5000,Supported,Android v12,False,False,True,0,True,6,128.0
+452,Google Pixel 5,430.43,82,Dual Sim,Snapdragon 765G,4080,-,-,True,True,True,0,False,8,128.0
+403,Sony Xperia L5 5G,191.18,73,Single Sim,Helio  P35,4000,Hybrid,Android v12,False,True,True,512,True,4,64.0
+295,Xiaomi Redmi Note 10 Pro (6GB RAM + 128GB),215.2,81,Dual Sim,Snapdragon 732G,5020,Supported,Android v11,False,False,True,512,True,6,128.0
+689,Vivo V15 Pro (8GB RAM +128GB),298.91,78,Dual Sim,Snapdragon 675,3700,Supported,Android v9.0 (Pie),False,False,True,256,True,8,128.0
+560,Xiaomi 11T Pro 5G (12GB RAM + 256GB),466.29,88,Dual Sim,Snapdragon  888,5000,-,-,True,True,True,0,False,12,256.0
+176,OPPO Reno 8 Pro House of Dragon Edition,549.98,86,Dual Sim,Dimensity 8100-Max,4500,-,-,True,True,True,0,False,12,256.0
+81,OPPO K10 5G,203.25,79,Dual Sim,Dimensity  810 5G,5000,Supported,Android v12,True,False,True,1000,True,8,128.0
+91,Apple iPhone 14 Pro,1434.65,75,Dual Sim,Bionic  A16,3200,Not Supported,iOS v16,True,True,True,0,True,6,128.0
+475,Huawei Nova 9 SE,239.01,84,Dual Sim,Snapdragon  680,4000,Supported,Android v11,False,True,True,0,True,8,128.0
+303,Motorola Moto G60,191.29,84,Dual Sim,Snapdragon  732G,6000,Hybrid,Android v11,False,True,True,1000,True,6,128.0
+158,Xiaomi Redmi Note 11SE,143.46,80,Dual Sim,Helio G95,5000,Supported,Android v11,False,False,True,512,True,6,64.0
+101,Xiaomi Redmi K50i 5G,274.99,82,Dual Sim,Dimensity  8100,5080,-,-,True,False,True,0,False,6,128.0
